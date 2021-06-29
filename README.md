@@ -7,7 +7,7 @@ I have been doing software development for the last 7 month. It started out with
 ---
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm Logo" width="70px" /><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="AdobeXD Logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm Logo" width="70px" /><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core Logo" height="50px" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="AdobeXD Logo" width="50px" height="50px" />
 
 ---
 📱Socials
@@ -18,6 +18,13 @@ I have been doing software development for the last 7 month. It started out with
 <a />
 
 ---
+GitHub Stats
+  
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlarslee&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericlarslee&theme=tokyonight)]
+
+
 <!--
 **ericlarslee/ericlarslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
