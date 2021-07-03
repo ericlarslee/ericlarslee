@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I am Eric! 
 
-> _VINCIT QUI SE VINCIT_
+### _VINCIT QUI SE VINCIT_
 
 I have been doing software development for the last 7 month. It started out with 3 months of self study, followed by a Full Stack Development bootcamp with devCodeCamp out of Milwaukee, WI.  My passions in life do not end with just programming; when I am not programing, I am either hanging out with my family, reading, or trying my hand at learning Norwegian and its written language Bokmål.  I look forward to continue to grow as a person, become a better husband, continue developing, learn more about programming, and maybe test out my Norwegian skills in the future.
 
