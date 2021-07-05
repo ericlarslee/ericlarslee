@@ -12,9 +12,11 @@ I have been doing software development for the last 7 month. It started out with
 ---
 📱Socials
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ericlarslee?label=Follow%20me%20on%20Twitter&style=social)
+<a href="https://www.twitter.com/ericlarslee/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="20px" width="20px" alt="Twitter Profile" />
+<a />
 <a href="https://www.linkedin.com/in/ericlarslee/">
-<img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" height="20px" width="20px" alt="LinkedIn Profile" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" height="20px" width="20px" alt="LinkedIn Profile" />
 <a />
 
 ---
