@@ -22,9 +22,8 @@ I have been doing software development for the last 7 month. It started out with
 ---
 GitHub Stats
   
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlarslee&show_icons=true&theme=tokyonight)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericlarslee&theme=tokyonight)]
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ericlarslee&langs_count=5&theme=tokyonight' />
+<img align="center" src='https://github-readme-stats.vercel.app/api/?username=ericlarslee&count_private=true&theme=tokyonight&showicons=true' />
 
 
 <!--
