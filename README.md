@@ -25,7 +25,10 @@ GitHub Stats
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlarslee)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericlarslee)]
+  <h2>Top Languages -- Click on image for most current results </h2>
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=ericlarslee">
+  <img src='Top_Languages.jpg' />
+</a>
 
 
 
