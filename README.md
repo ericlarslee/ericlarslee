@@ -23,7 +23,7 @@ I have been doing software development for the last 7 month. It started out with
 ---
 GitHub Stats
   
-<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ericlarslee&langs_count=5&theme=tokyonight' />
+<img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?ericlarslee" />
 <img align="center" src='https://github-readme-stats.vercel.app/api/?username=ericlarslee&count_private=true&theme=tokyonight&showicons=true' />
 
 
